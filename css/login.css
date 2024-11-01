@@ -1,0 +1,67 @@
+html {
+	background-color: #AAA;
+	text-align: center;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+}
+ 
+#login form {
+padding-top: 100px;
+}
+#login form .submit input {
+	border-color: #bcb38f !important;
+	color: #777 !important;
+	width: 250px;
+	padding: 5px;
+}
+#login form .submit input:hover {
+border-color: #bcb38f !important;
+color: #bcb38f !important;
+}
+#login h1 {
+display: none;
+}
+.login #nav a {
+	color: #EEE !important;
+}
+.login #login #nav {
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.login #nav a:hover {
+	color: #222 !important;
+}
+ 
+#wphead img, #wphead h1 {
+display: none;
+}
+#wphead {
+height: 100px;
+}
+#wphead-info {
+padding-top: 27px;
+}
+ 
+#footer {
+display: none;
+}
+#footer_custom {
+clear: both;
+text-align: center;
+width: 500px;
+margin: auto;
+height: 100px;
+}
+#footer_custom .docs {
+padding-top: 0px;
+line-height: 100%;
+}
+#footer_image {
+border:none;
+}
+input {
+	width: 250px;
+	padding: 5px;
+}
